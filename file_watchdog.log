@@ -11,3 +11,4 @@
 2023-09-10 10:33:37,098 - INFO - PERFORMANCE file_watchdog Low process duration less than 3 minutes:17.87
 2023-09-10 10:33:37,098 - INFO - PERFORMANCE file_watchdog Performance optimization is optional
 2023-09-10 10:33:37,098 - INFO - END file_watchdog =============================================
+2023-09-10 10:34:41,225 - INFO - file_watchdog - Step 3 - Establish Schedule to Test watchdog for file existence
