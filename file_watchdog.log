@@ -1,0 +1,13 @@
+2023-09-10 10:33:19,229 - INFO - START file_watchdog =============================================
+2023-09-10 10:33:19,229 - INFO - START file_watchdog Start Time = 2023-09-10 10:33:19
+2023-09-10 10:33:19,229 - INFO - file_watchdog Step 0 - Initialize the configuration file parser
+2023-09-10 10:33:19,331 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2023-09-10 10:33:19,331 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2023-09-10 10:33:25,161 - INFO - Process file_watchdog Step 0 - Initializing and starting Logging Process.
+2023-09-10 10:33:31,162 - INFO - Process file_watchdog - Step 1 - create watch dog functions to check for data files
+2023-09-10 10:33:37,036 - INFO - file_watchdog - Step 2 - Test an example file. Watch for existence
+2023-09-10 10:33:37,098 - INFO - PERFORMANCE file_watchdog The total process duration was:17.87
+2023-09-10 10:33:37,098 - INFO - PERFORMANCE file_watchdog Stop Time = 2023-09-10 10:33:37
+2023-09-10 10:33:37,098 - INFO - PERFORMANCE file_watchdog Low process duration less than 3 minutes:17.87
+2023-09-10 10:33:37,098 - INFO - PERFORMANCE file_watchdog Performance optimization is optional
+2023-09-10 10:33:37,098 - INFO - END file_watchdog =============================================
