@@ -48,5 +48,5 @@ To get started with the **File Watchdog** solution repository, follow these step
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](solution_stacked_sign.png)  <br>
+ 
     
