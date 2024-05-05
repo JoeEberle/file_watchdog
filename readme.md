@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # File Watchdog - Solution for File Watchdog
 Solution for File Watchdog
 
@@ -9,8 +11,6 @@ Welcome to the solution **File Watchdog** - an example for your projects
 Solution for File Watchdog
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
